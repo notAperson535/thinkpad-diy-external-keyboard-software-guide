@@ -12,13 +12,12 @@ I was able to acquire both the software and basic instructions on how to use it.
 There are two options.
 
 1. Find a compatible .cfg file for your keyboard
-   - For some reason these were sorted into two folders, the software folder and the "Other profiles" folder. Check both to find the proper one. Also remember some keyboard are compatible with multiple different devices, so if you have a t420 keyboard the config might just the x220 or similar.
+   - For some reason these were sorted into two folders, the software folder and the "Other profiles" folder. Check both to find the proper one. Also remember some keyboard are compatible with multiple different devices, so if you have a t420 keyboard the config might just the x220 or similar. I would recommend trying to use the X series equivalents of the keyboard you have, as those seem to work better.
 
 3. Follow the instructions in the word doc to create your own .cfg file (I would recommend copying one of the generic ones for this).
 
 Follow the instructions in the image to flash the .cfg file onto your keyboard
 ![image](https://github.com/user-attachments/assets/db65f64c-63e9-4df5-b319-61df43b032ec)
-
 
 Black box with text should be pointing to "download config" button. Ignore step 4 unless you have a bluetooth supported circuit.
 

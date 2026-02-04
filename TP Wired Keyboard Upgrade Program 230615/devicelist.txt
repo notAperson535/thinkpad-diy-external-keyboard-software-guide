@@ -1,0 +1,17 @@
+\\?\hid#vid_5859&pid_0001&mi_01#7&15032bb9&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}
+\\?\hid#synhidmini&col01#1&b12c6d1&6&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}
+\\?\hid#vid_046d&pid_c53f&mi_01&col01#7&30b13dbf&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}
+\\?\hid#vid_046d&pid_c53f&mi_02&col01#7&3441f071&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}
+\\?\hid#vid_046d&pid_c53f&mi_01&col02#7&30b13dbf&0&0001#{4d1e55b2-f16f-11cf-88cb-001111000030}
+\\?\hid#vid_046d&pid_c53f&mi_02&col02#7&3441f071&0&0001#{4d1e55b2-f16f-11cf-88cb-001111000030}
+\\?\hid#vid_046d&pid_c53f&mi_01&col03#7&30b13dbf&0&0002#{4d1e55b2-f16f-11cf-88cb-001111000030}
+\\?\hid#synhidmini&col02#1&b12c6d1&6&0001#{4d1e55b2-f16f-11cf-88cb-001111000030}
+\\?\hid#vid_046d&pid_c53f&mi_02&col03#7&3441f071&0&0002#{4d1e55b2-f16f-11cf-88cb-001111000030}
+\\?\hid#vid_046d&pid_c53f&mi_01&col04#7&30b13dbf&0&0003#{4d1e55b2-f16f-11cf-88cb-001111000030}
+\\?\hid#vid_5859&pid_0001&mi_02&col01#7&ed41209&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}
+\\?\hid#vid_5859&pid_0001&mi_00#7&38da697b&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}\kbd
+\\?\hid#synhidmini&col03#1&b12c6d1&6&0002#{4d1e55b2-f16f-11cf-88cb-001111000030}
+\\?\hid#vid_5859&pid_0001&mi_02&col02#7&ed41209&0&0001#{4d1e55b2-f16f-11cf-88cb-001111000030}
+\\?\hid#vid_046d&pid_c53f&mi_00#7&cd9fffd&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}\kbd
+\\?\hid#vid_08bb&pid_2706&mi_02#7&1f5f37eb&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}
+\\?\hid#synhidmini&col04#1&b12c6d1&6&0003#{4d1e55b2-f16f-11cf-88cb-001111000030}

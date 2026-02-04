@@ -7,7 +7,7 @@ Images were obtained from the files I recieved.
 Circuit boards like this:<img width="1588" height="1150" alt="image" src="https://github.com/user-attachments/assets/2eb14e75-05ad-429f-824d-dacc8ccfb1b9" />
 Although they could be different colors
 
-I was able to acquire both the software and basic instructions on how to use it. Those can be found [here](https://github.com/notAperson535/notAperson535/blob/main/TP%20wired%20keyboards%20(supports%20Mac%20firmware).zip)
+I was able to acquire both the software and basic instructions on how to use it. Those can be found [here](https://github.com/notAperson535/thinkpad-diy-external-keyboard-software-guide) (download the files from the repository)
 
 There are two options.
 

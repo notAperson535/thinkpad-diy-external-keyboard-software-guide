@@ -26,3 +26,15 @@ Black box with text should be pointing to "download config" button. Ignore step 
 
 
 I am not sure what the "prep", "step 1", and "step 2" images are, I just included them because they came with the files.
+
+# Other Keyboard Layouts and Languages
+This example is for German but works for other keyboard layouts as well. Thanks u/met
+
+- Get [Hut1_12v2.pdf](https://www.usb.org/sites/default/files/documents/hut1_12v2.pdf) from internet
+- Go to USB HID Usage Table / page 53
+- Find your missing keys. E.g. german # and <. Found in footnotes:
+- Find the respective usage ID (Hex), here 32 and 64
+- As described below – find the hardware keyboard scancode with the tool. Here 65 and 08
+- Put the usage IDs in the table at respective position
+- (add lines in the key table – not sure if needed):
+- Load config file as described

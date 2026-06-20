@@ -28,7 +28,7 @@ Black box with text should be pointing to "download config" button. Ignore step 
 I am not sure what the "prep", "step 1", and "step 2" images are, I just included them because they came with the files.
 
 # Other Keyboard Layouts and Languages
-This example is for German but works for other keyboard layouts as well. Thanks u/met
+This example is for German but works for other keyboard layouts as well. Thanks [u/metager83](https://www.reddit.com/user/metager83/) on [Reddit](https://www.reddit.com/r/thinkpad/comments/1qkfuc1/comment/os8wqzz/)
 
 - Get [Hut1_12v2.pdf](https://www.usb.org/sites/default/files/documents/hut1_12v2.pdf) from internet
 - Go to USB HID Usage Table / page 53
